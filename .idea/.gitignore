@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+
+### PDF past years ###
+pastyears/paper2023/*.pdf
+pastyears/paper2024/*.pdf
